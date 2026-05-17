@@ -1,50 +1,35 @@
-<div id="header" align="center">
-  <img src="https://github.com/PROF1TE/PROF1TE/blob/main/5213153939095153230.jpg" width="1200"/>
+<div align="center">
+  <img src="https://github.com/PROF1TE/PROF1TE/blob/main/5213153939095153230.jpg" width="100%"/>
 </div>
 
-<img height="35"  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio2.svg">
+<br/>
 
-
-
-
-### IDE in my heart
-[![My Skills](https://skillicons.dev/icons?i=clion,idea,pycharm,webstorm,vscode&theme=light)](https://skillicons.dev)
-
-
-### Frameworks
-<p align="left">
-    <img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Qt/qt1.svg">
-    <img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql3.svg">
-    <img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FastAPI/fastapi1.svg">
-    <img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Atom/atom2.svg">
-    <img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/FontAwesome/fontawesome1.svg">
-    <img height="25" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/React/react1.svg">
-</p>
-
-
-### Favourite languages
-<p align="left">
+<div align="center">
   <a href="https://skillicons.dev">
-    <img  height="40" src="https://skillicons.dev/icons?i=java,python,cpp,c,js,html,css&theme=light" />
+    <img src="https://skillicons.dev/icons?i=py,java,rust,ts,mysql,selenium,tailwind,nginx,tauri,nodejs,gradle,docker,git,figma&perline=7&theme=dark"/>
   </a>
-</p>
+</div>
 
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PROF1TE&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e"/>
+</div>
 
+<br/>
 
-### Network social
-<p align="left">
-  <a href="https://discordapp.com/users/980172135270072350/ ">
-    <img height="27" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg">
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PROF1TE&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=58a6ff&point=ffffff"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <a href="https://discordapp.com/users/980172135270072350/">
+    <img height="27" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord1.svg"/>
   </a>
+  &nbsp;
   <a href="https://t.me/PROFlTE">
-    <img height="27" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg">
+    <img height="27" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Telegram/telegram1.svg"/>
   </a>
-</p>
-
-### My OS
-
-<img height="30"  src="https://ziadoua.github.io/m3-Markdown-Badges/badges/KaliLinux/kalilinux1.svg">
-
-
-
+</div>
